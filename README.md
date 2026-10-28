@@ -9,10 +9,20 @@ UI 키트와 아이콘. 장르를 가리지 않고 쓰이는 CC0 팩.
 - 파일: `gameicons.zip` (PNG 아이콘 425개 + SVG/AI 원본)
 - 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/game-icons
 
+### Game Icons (Expansion)
+![Game Icons (Expansion) 미리보기](previews/gameicons-expansion.png)
+- 파일: `gameicons-expansion.zip` (PNG 아이콘 790개 + SVG/AI 원본)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/game-icons-expansion
+
 ### Pixel UI Pack
 ![Pixel UI Pack 미리보기](previews/pixeluipack.png)
 - 파일: `pixeluipack.zip` (PNG 36개: 버튼·컨트롤·아이콘)
 - 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/pixel-ui-pack
+
+### Crosshair Pack
+![Crosshair Pack 미리보기](previews/crosshair-pack.png)
+- 파일: `crosshair-pack.zip` (크로스헤어 200종 × Black/White/Outline 3스타일, 일반+레티나(@2x) 해상도, 타일시트·SVG 원본 포함)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/crosshair-pack
 
 ## 사용 방법
 
