@@ -37,3 +37,14 @@ UI 키트와 아이콘. 장르를 가리지 않고 쓰이는 CC0 팩.
 - 파일 바이트는 Kenney 공식 미러 github.com/ETdoFresh/kenney.nl 에서 확보했으며, 공식 사이트 원본과 바이트 대조는 하지 않았습니다.
 
 전체 인덱스와 장르 태그: [game-asset-catalog](https://github.com/sigco3111/game-asset-catalog)
+
+## 2026-10-28 추가 팩 (릴리스 v2.0)
+
+### Generic Items
+![Generic Items 미리보기](https://github.com/sigco3111/assets-ui-icons/releases/download/v2.0/generic-items.png)
+- 파일: [릴리스 v2.0 첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download/v2.0/generic-items.zip) (2.2MB, PNG 330개: 범용 아이템 아이콘)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/generic-items
+### Emotes Pack
+![Emotes Pack 미리보기](https://github.com/sigco3111/assets-ui-icons/releases/download/v2.0/emotes-pack.png)
+- 파일: [릴리스 v2.0 첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download/v2.0/emotes-pack.zip) (0.4MB, PNG 513개: 감정 표현 이모트)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/emotes-pack
