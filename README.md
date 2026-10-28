@@ -48,3 +48,26 @@ UI 키트와 아이콘. 장르를 가리지 않고 쓰이는 CC0 팩.
 ![Emotes Pack 미리보기](https://github.com/sigco3111/assets-ui-icons/releases/download/v2.0/emotes-pack.png)
 - 파일: [릴리스 v2.0 첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download/v2.0/emotes-pack.zip) (0.4MB, PNG 513개: 감정 표현 이모트)
 - 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/emotes-pack
+
+## 2026-10-28 추가 팩 (릴리스 v3.0)
+
+### UI Pack
+![UI Pack 미리보기](https://github.com/sigco3111/assets-ui-icons/releases/download/v3.0/ui-pack.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download/v3.0/ui-pack.zip) (0.4MB, 파일 169개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/ui-pack
+### Ranks Pack
+![Ranks Pack 미리보기](https://github.com/sigco3111/assets-ui-icons/releases/download/v3.0/ranks-pack.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download/v3.0/ranks-pack.zip) (0.7MB, 파일 644개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/ranks-pack
+### Cartography Pack
+![Cartography Pack 미리보기](https://github.com/sigco3111/assets-ui-icons/releases/download/v3.0/cartography-pack.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download/v3.0/cartography-pack.zip) (4.2MB, 파일 182개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/cartography-pack
+### Rune Pack
+![Rune Pack 미리보기](https://github.com/sigco3111/assets-ui-icons/releases/download/v3.0/rune-pack.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download/v3.0/rune-pack.zip) (2.2MB, 파일 693개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/rune-pack
+### Kenney Fonts
+![Kenney Fonts 미리보기](https://github.com/sigco3111/assets-ui-icons/releases/download/v3.0/kenney-fonts.png)
+- 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download/v3.0/kenney-fonts.zip) (0.1MB, TTF 11종)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/kenney-fonts
