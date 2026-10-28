@@ -71,3 +71,10 @@ UI 키트와 아이콘. 장르를 가리지 않고 쓰이는 CC0 팩.
 ![Kenney Fonts 미리보기](https://github.com/sigco3111/assets-ui-icons/releases/download/v3.0/kenney-fonts.png)
 - 파일: [릴리스 v3.0 첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download/v3.0/kenney-fonts.zip) (0.1MB, TTF 11종)
 - 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/kenney-fonts
+
+## 2026-10-28 추가 팩 (릴리스 v4.0)
+
+### Medals
+![Medals 미리보기](https://github.com/sigco3111/assets-ui-icons/releases/download/v4.0/medals.png)
+- 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download/v4.0/medals.zip) (196K, 파일 34개)
+- 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/medals
