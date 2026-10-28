@@ -78,3 +78,17 @@ UI 키트와 아이콘. 장르를 가리지 않고 쓰이는 CC0 팩.
 ![Medals 미리보기](https://github.com/sigco3111/assets-ui-icons/releases/download/v4.0/medals.png)
 - 파일: [릴리스 v4.0 첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download/v4.0/medals.zip) (196K, 파일 34개)
 - 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/medals
+
+
+## 2026-10-28 추가 확장: 실제 파일 검증
+
+### Game-icons.net SVG Collection
+
+![Game-icons.net SVG Collection 미리보기](https://github.com/sigco3111/assets-ui-icons/releases/download/v5.0/game-icons-svg.png)
+
+- 다운로드: [game-icons-svg.zip](https://github.com/sigco3111/assets-ui-icons/releases/download/v5.0/game-icons-svg.zip)
+- 실제 내용: SVG 4,180개, 모든 SVG 파싱 검사 완료. 미리보기는 60개 샘플입니다.
+- 귀속 필수: Icons made by Lorc, Delapouite & contributors - https://game-icons.net/ - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). 개별 아이콘 사용 시 해당 폴더의 제작자를 표시하고 수정 여부를 기록하세요. 원본 icons/license.txt에 제작자별 웹사이트가 있습니다. Viscious Speed·Zeromancer 폴더만 CC0입니다.
+- 제작: Lorc, Delapouite & contributors / 라이선스: CC-BY-3.0 / CC0 (2 contributors) / 출처: https://game-icons.net/
+
+이 확장의 원격 파일 SHA-256을 모두 로컬과 대조했습니다. 3D 팩의 모델 헤더·OBJ 정점/면, 오디오 디코딩, SVG 문서를 실제 파일에서 확인했습니다.
