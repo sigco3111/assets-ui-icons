@@ -674,6 +674,61 @@ UI 키트와 아이콘. 장르를 가리지 않고 쓰이는 CC0 팩.
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//boxy-bold-font-split.zip) (67KB, png 141개)
 - 제작: samuroma2 / 라이선스: CC0 / 원본: https://opengameart.org/content/boxy-bold-font-split
 
+### Random Item Icons 128x128
+![Random Item Icons 128x128 미리보기](previews/random-item-icons-128x128.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//random-item-icons-128x128.zip) (407KB, png 18개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/random-item-icons-128x128
+
+### RPG Icons Set
+![RPG Icons Set 미리보기](previews/rpg-icons-set.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//rpg-icons-set.zip) (2.6MB, png 2개 · txt 1개)
+- 제작: MedicineStorm / 라이선스: CC0 / 원본: https://opengameart.org/content/rpg-icons-set
+
+### RPG Inventory Icons
+![RPG Inventory Icons 미리보기](previews/rpg-inventory-icons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//rpg-inventory-icons.zip) (12KB, png 2개)
+- 제작: FruitDragon / 라이선스: CC0 / 원본: https://opengameart.org/content/rpg-inventory-icons
+
+### Cursor Pixel Pack
+![Cursor Pixel Pack 미리보기](previews/cursor-pixel-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//cursor-pixel-pack.zip) (118KB, png 186개 · txt 2개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/cursor-pixel-pack
+
+### GB-styled Icons
+![GB-styled Icons 미리보기](previews/gb-styled-icons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//gb-styled-icons.zip) (4KB, png 2개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/gb-styled-icons
+
+### Cursor Pack
+![Cursor Pack 미리보기](previews/cursor-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//cursor-pack.zip) (15KB, png 8개)
+- 제작: Alma / 라이선스: CC0 / 원본: https://opengameart.org/content/cursor-pack
+
+### 8x8 Font - Chomp's Wacky Worlds Beta
+![8x8 Font - Chomp's Wacky Worlds Beta 미리보기](previews/8x8-font-chomps-wacky-worlds-beta.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//8x8-font-chomps-wacky-worlds-beta.zip) (3KB, png 2개)
+- 제작: TheWhiteShadow / 라이선스: CC0 / 원본: https://opengameart.org/content/8x8-font-chomps-wacky-worlds-beta
+
+### ASCII bitmap font
+![ASCII bitmap font 미리보기](previews/ascii-bitmap-font.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//ascii-bitmap-font.zip) (12KB, jpg 1개 · png 1개)
+- 제작: LFA / 라이선스: CC0 / 원본: https://opengameart.org/content/ascii-bitmap-font
+
+### ASCII Bitmap Font "oldschool"
+![ASCII Bitmap Font "oldschool" 미리보기](previews/ascii-bitmap-font-oldschool.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//ascii-bitmap-font-oldschool.zip) (4KB, png 3개)
+- 제작: Lolums / 라이선스: CC0 / 원본: https://opengameart.org/content/ascii-bitmap-font-oldschool
+
+### Tiny RPG - Font Kit I
+![Tiny RPG - Font Kit I 미리보기](previews/tiny-rpg-font-kit-i.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//tiny-rpg-font-kit-i.zip) (105KB, png 4개)
+- 제작: Collisteru / 라이선스: CC0 / 원본: https://opengameart.org/content/tiny-rpg-font-kit-i
+
+### Tom Thumb Tiny ASCII font (3x5)
+![Tom Thumb Tiny ASCII font (3x5) 미리보기](previews/tom-thumb-tiny-ascii-font-3x5.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//tom-thumb-tiny-ascii-font-3x5.zip) (7KB, png 3개)
+- 제작: FuzzyWuzzie / 라이선스: CC0 / 원본: https://opengameart.org/content/tom-thumb-tiny-ascii-font-3x5
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
