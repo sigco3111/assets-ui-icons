@@ -849,6 +849,66 @@ UI 키트와 아이콘. 장르를 가리지 않고 쓰이는 CC0 팩.
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//cc0-mineral-icons.zip) (6.9MB, png 32개 · svg 7개 · txt 4개 · jpg 1개)
 - 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/cc0-mineral-icons
 
+### Magic spell icons
+![Magic spell icons 미리보기](previews/magic-spell-icons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//magic-spell-icons.zip) (7.1MB, png 3개 · svg 1개)
+- 제작: farcodev / 라이선스: CC0 / 원본: https://opengameart.org/content/magic-spell-icons
+
+### ASCII Bitmap Font "cellphone"
+![ASCII Bitmap Font "cellphone" 미리보기](previews/ascii-bitmap-font-cellphone.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//ascii-bitmap-font-cellphone.zip) (4KB, png 3개)
+- 제작: kristianbot / 라이선스: CC0 / 원본: https://opengameart.org/content/ascii-bitmap-font-cellphone
+
+### Patreon Public Domain Art - Tarot Arcana Icons
+![Patreon Public Domain Art - Tarot Arcana Icons 미리보기](previews/patreon-public-domain-art-tarot-arcana-icons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//patreon-public-domain-art-tarot-arcana-icons.zip) (335KB, png 23개 · svg 22개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/patreon-public-domain-art-tarot-arcana-icons
+
+### CC0 Axe Icons
+![CC0 Axe Icons 미리보기](previews/cc0-axe-icons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//cc0-axe-icons.zip) (1.1MB, png 170개 · txt 13개 · svg 11개)
+- 제작: ScratchIO / 라이선스: CC0 / 원본: https://opengameart.org/content/cc0-axe-icons
+
+### Pixel icons
+![Pixel icons 미리보기](previews/pixel-icons-0.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//pixel-icons-0.zip) (6KB, png 2개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/pixel-icons-0
+
+### Some Gui Graphics
+![Some Gui Graphics 미리보기](previews/some-gui-graphics.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//some-gui-graphics.zip) (3.7MB, png 69개 · txt 1개)
+- 제작: looneybits / 라이선스: CC0 / 원본: https://opengameart.org/content/some-gui-graphics
+
+### Complete Unicode (plane 0) Bitmap Font (png)
+![Complete Unicode (plane 0) Bitmap Font (png) 미리보기](previews/complete-unicode-plane-0-bitmap-font-png.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//complete-unicode-plane-0-bitmap-font-png.zip) (1.6MB, png 2개)
+- 제작: Clint Bellanger / 라이선스: CC0 / 원본: https://opengameart.org/content/complete-unicode-plane-0-bitmap-font-png
+
+### Buttons Starter Pack
+![Buttons Starter Pack 미리보기](previews/buttons-starter-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//buttons-starter-pack.zip) (91.5MB, png 178개)
+- 제작: Nia Mi / 라이선스: CC0 / 원본: https://opengameart.org/content/buttons-starter-pack
+
+### .font
+![.font 미리보기](previews/font-4.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//font-4.zip) (1KB, png 2개)
+- 제작: st0m4rv3r / 라이선스: CC0 / 원본: https://opengameart.org/content/font-4
+
+### Menu GUI for Game
+![Menu GUI for Game 미리보기](previews/menu-gui-for-game.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//menu-gui-for-game.zip) (330KB, png 5개 · jpg 2개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/menu-gui-for-game
+
+### Blank Buttons 64x64
+![Blank Buttons 64x64 미리보기](previews/blank-buttons-64x64.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//blank-buttons-64x64.zip) (2KB, png 1개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/blank-buttons-64x64
+
+### 9mm 6 bullet magazine UI
+![9mm 6 bullet magazine UI 미리보기](previews/9mm-6-bullet-magazine-ui.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//9mm-6-bullet-magazine-ui.zip) (1.5MB, png 14개)
+- 제작: Commander / 라이선스: CC0 / 원본: https://opengameart.org/content/9mm-6-bullet-magazine-ui
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
