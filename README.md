@@ -104,6 +104,76 @@ UI 키트와 아이콘. 장르를 가리지 않고 쓰이는 CC0 팩.
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//gold-treasure-icons-16x16.zip) (9KB, png 12개 · txt 1개)
 - 제작: Clint Bellanger / 라이선스: CC0 / 원본: https://opengameart.org/content/gold-treasure-icons-16x16
 
+### Game icons
+![Game icons 미리보기](previews/game-icons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//game-icons.zip) (1.1MB, png 426개 · svg 2개 · txt 1개)
+- 제작: Calinou / 라이선스: CC0 / 원본: https://opengameart.org/content/game-icons
+
+### Game icons (expansion)
+![Game icons (expansion) 미리보기](previews/game-icons-expansion.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//game-icons-expansion.zip) (2.1MB, png 791개 · svg 4개 · txt 2개)
+- 제작: monsterkillu / 라이선스: CC0 / 원본: https://opengameart.org/content/game-icons-expansion
+
+### New original Grafx2 font collection
+![New original Grafx2 font collection 미리보기](previews/new-original-grafx2-font-collection.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//new-original-grafx2-font-collection.zip) (52KB, png 27개)
+- 제작: canisferus / 라이선스: CC0 / 원본: https://opengameart.org/content/new-original-grafx2-font-collection
+
+### Medieval Game Button Pack
+![Medieval Game Button Pack 미리보기](previews/medieval-game-button-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//medieval-game-button-pack.zip) (5.6MB, png 1개 · svg 1개 · jpg 1개)
+- 제작: Grygier / 라이선스: CC0 / 원본: https://opengameart.org/content/medieval-game-button-pack
+
+### The collection of 8-bit fonts for Grafx2 (r2)
+![The collection of 8-bit fonts for Grafx2 (r2) 미리보기](previews/the-collection-of-8-bit-fonts-for-grafx2-r2.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//the-collection-of-8-bit-fonts-for-grafx2-r2.zip) (43KB, png 20개)
+- 제작: cemkalyoncu / 라이선스: CC0 / 원본: https://opengameart.org/content/the-collection-of-8-bit-fonts-for-grafx2-r2
+
+### Free Game GUI
+![Free Game GUI 미리보기](previews/free-game-gui.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//free-game-gui.zip) (20.2MB, jpg 3개 · svg 3개 · png 3개 · txt 1개)
+- 제작: Aetherna / 라이선스: CC0 / 원본: https://opengameart.org/content/free-game-gui
+
+### CC0 Food Icons
+![CC0 Food Icons 미리보기](previews/cc0-food-icons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//cc0-food-icons.zip) (7.9MB, png 1221개 · svg 357개 · txt 13개)
+- 제작: bluecarrot16 / 라이선스: CC0 / 원본: https://opengameart.org/content/cc0-food-icons
+
+### Flare buttons
+![Flare buttons 미리보기](previews/flare-buttons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//flare-buttons.zip) (916KB, png 3개)
+- 제작: bart / 라이선스: CC0 / 원본: https://opengameart.org/content/flare-buttons
+
+### UI resources
+![UI resources 미리보기](previews/ui-resources.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//ui-resources.zip) (113KB, jpg 1개)
+- 제작: greyK / 라이선스: CC0 / 원본: https://opengameart.org/content/ui-resources
+
+### Sci-fi User Interface
+![Sci-fi User Interface 미리보기](previews/sci-fi-user-interface.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//sci-fi-user-interface.zip) (42KB, png 4개)
+- 제작: yd / 라이선스: CC0 / 원본: https://opengameart.org/content/sci-fi-user-interface
+
+### Shiny hud
+![Shiny hud 미리보기](previews/shiny-hud.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//shiny-hud.zip) (21KB, png 3개)
+- 제작: Danimal / 라이선스: CC0 / 원본: https://opengameart.org/content/shiny-hud
+
+### Armor Icons by Equipment slot with transparency
+![Armor Icons by Equipment slot with transparency 미리보기](previews/armor-icons-by-equipment-slot-with-transparency.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//armor-icons-by-equipment-slot-with-transparency.zip) (467KB, png 3개)
+- 제작: Bonsaiheldin / 라이선스: CC0 / 원본: https://opengameart.org/content/armor-icons-by-equipment-slot-with-transparency
+
+### Good Neighbors pixel font
+![Good Neighbors pixel font 미리보기](previews/good-neighbors-pixel-font.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//good-neighbors-pixel-font.zip) (34KB, png 4개)
+- 제작: dannorder / 라이선스: CC0 / 원본: https://opengameart.org/content/good-neighbors-pixel-font
+
+### UI Button
+![UI Button 미리보기](previews/ui-button.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//ui-button.zip) (268KB, png 6개)
+- 제작: Dread Knight / 라이선스: CC0 / 원본: https://opengameart.org/content/ui-button
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
