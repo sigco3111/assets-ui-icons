@@ -789,6 +789,66 @@ UI 키트와 아이콘. 장르를 가리지 않고 쓰이는 CC0 팩.
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//candy-button-pack.zip) (8.4MB, png 185개 · jpg 1개 · svg 1개)
 - 제작: quangtqag / 라이선스: CC0 / 원본: https://opengameart.org/content/candy-button-pack
 
+### Gaming Console Controller [Buttons]
+![Gaming Console Controller [Buttons] 미리보기](previews/gaming-console-controller-buttons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//gaming-console-controller-buttons.zip) (7KB, png 2개)
+- 제작: mold / 라이선스: CC0 / 원본: https://opengameart.org/content/gaming-console-controller-buttons
+
+### 8x8 1bit roguelike tiles / bitmap font
+![8x8 1bit roguelike tiles / bitmap font 미리보기](previews/8x8-1bit-roguelike-tiles-bitmap-font.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//8x8-1bit-roguelike-tiles-bitmap-font.zip) (4KB, png 2개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/8x8-1bit-roguelike-tiles-bitmap-font
+
+### ASCII Bitmap Font "futuristic"
+![ASCII Bitmap Font "futuristic" 미리보기](previews/ascii-bitmap-font-futuristic.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//ascii-bitmap-font-futuristic.zip) (4KB, png 3개)
+- 제작: ExoLight / 라이선스: CC0 / 원본: https://opengameart.org/content/ascii-bitmap-font-futuristic
+
+### CC0 Currency Icons
+![CC0 Currency Icons 미리보기](previews/cc0-currency-icons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//cc0-currency-icons.zip) (196KB, png 59개 · svg 8개 · txt 5개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/cc0-currency-icons
+
+### KL Font
+![KL Font 미리보기](previews/kl-font.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//kl-font.zip) (12KB, png 3개)
+- 제작: RussNap / 라이선스: CC0 / 원본: https://opengameart.org/content/kl-font
+
+### CC0 Gem Icons
+![CC0 Gem Icons 미리보기](previews/cc0-gem-icons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//cc0-gem-icons.zip) (647KB, png 146개 · svg 63개 · txt 9개)
+- 제작: Luca Pixel / 라이선스: CC0 / 원본: https://opengameart.org/content/cc0-gem-icons
+
+### Lucid Icon Pack
+![Lucid Icon Pack 미리보기](previews/lucid-icon-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//lucid-icon-pack.zip) (1.0MB, png 1071개 · svg 263개 · json 12개 · txt 1개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/lucid-icon-pack
+
+### PickUp Items - Icons
+![PickUp Items - Icons 미리보기](previews/pickup-items-icons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//pickup-items-icons.zip) (840KB, png 10개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/pickup-items-icons
+
+### FREE Unique icons pack [N-01] [64x64]; 39 count
+![FREE Unique icons pack [N-01] [64x64]; 39 count 미리보기](previews/free-unique-icons-pack-n-01-64x64-39-count.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//free-unique-icons-pack-n-01-64x64-39-count.zip) (295KB, png 39개 · jpg 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/free-unique-icons-pack-n-01-64x64-39-count
+
+### Simple stat icons
+![Simple stat icons 미리보기](previews/simple-stat-icons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//simple-stat-icons.zip) (422KB, png 6개 · txt 1개)
+- 제작: TinyWorlds / 라이선스: CC0 / 원본: https://opengameart.org/content/simple-stat-icons
+
+### GAME UI - SIMPLE OUTLINE [SQUARES]
+![GAME UI - SIMPLE OUTLINE [SQUARES] 미리보기](previews/game-ui-simple-outline-squares.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//game-ui-simple-outline-squares.zip) (282KB, png 43개)
+- 제작: EvilKat / 라이선스: CC0 / 원본: https://opengameart.org/content/game-ui-simple-outline-squares
+
+### CC0 Mineral Icons
+![CC0 Mineral Icons 미리보기](previews/cc0-mineral-icons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//cc0-mineral-icons.zip) (6.9MB, png 32개 · svg 7개 · txt 4개 · jpg 1개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/cc0-mineral-icons
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
