@@ -494,6 +494,66 @@ UI 키트와 아이콘. 장르를 가리지 않고 쓰이는 CC0 팩.
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//ui-pack-0.zip) (9KB, png 2개)
 - 제작: SealHunt / 라이선스: CC0 / 원본: https://opengameart.org/content/ui-pack-0
 
+### Cursor Pack
+![Cursor Pack 미리보기](previews/cursor-pack-1.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//cursor-pack-1.zip) (804KB, png 730개 · svg 364개 · txt 1개)
+- 제작: MedicineStorm / 라이선스: CC0 / 원본: https://opengameart.org/content/cursor-pack-1
+
+### Menu Panels
+![Menu Panels 미리보기](previews/menu-panels.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//menu-panels.zip) (1.0MB, png 4개)
+- 제작: Ollobrains / 라이선스: CC0 / 원본: https://opengameart.org/content/menu-panels
+
+### Icons: Items 1
+![Icons: Items 1 미리보기](previews/icons-items-1.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//icons-items-1.zip) (11KB, png 2개)
+- 제작: bomt / 라이선스: CC0 / 원본: https://opengameart.org/content/icons-items-1
+
+### GUI Buttons Active/Hover
+![GUI Buttons Active/Hover 미리보기](previews/gui-buttons-activehover.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//gui-buttons-activehover.zip) (641KB, png 10개 · jpg 1개)
+- 제작: Anonymous (not verified) / 라이선스: CC0 / 원본: https://opengameart.org/content/gui-buttons-activehover
+
+### Font.
+![Font. 미리보기](previews/font-0.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//font-0.zip) (125KB, png 1개)
+- 제작: bedfl2016 / 라이선스: CC0 / 원본: https://opengameart.org/content/font-0
+
+### Buttons and Frame
+![Buttons and Frame 미리보기](previews/buttons-and-frame.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//buttons-and-frame.zip) (465KB, png 6개)
+- 제작: StarNinjas / 라이선스: CC0 / 원본: https://opengameart.org/content/buttons-and-frame
+
+### PixelArt Skills Icons
+![PixelArt Skills Icons 미리보기](previews/pixelart-skills-icons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//pixelart-skills-icons.zip) (11KB, png 1개)
+- 제작: Demetrius / 라이선스: CC0 / 원본: https://opengameart.org/content/pixelart-skills-icons
+
+### Health bar and heart icon
+![Health bar and heart icon 미리보기](previews/health-bar-and-heart-icon.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//health-bar-and-heart-icon.zip) (10KB, jpg 1개)
+- 제작: thesoundofgrafix / 라이선스: CC0 / 원본: https://opengameart.org/content/health-bar-and-heart-icon
+
+### Horrific button
+![Horrific button 미리보기](previews/horrific-button.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//horrific-button.zip) (11KB, png 2개)
+- 제작: looneybits / 라이선스: CC0 / 원본: https://opengameart.org/content/horrific-button
+
+### Fantasy UI button
+![Fantasy UI button 미리보기](previews/fantasy-ui-button.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//fantasy-ui-button.zip) (566KB, png 4개)
+- 제작: cieran_7 / 라이선스: CC0 / 원본: https://opengameart.org/content/fantasy-ui-button
+
+### Pixelart menu with a naturery hand shooting some green stuff
+![Pixelart menu with a naturery hand shooting some green stuff 미리보기](previews/pixelart-menu-naturery-hand-shooting-some-green-stuff.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//pixelart-menu-naturery-hand-shooting-some-green-stuff.zip) (39KB, png 6개)
+- 제작: andrelopes1993 / 라이선스: CC0 / 원본: https://opengameart.org/content/pixelart-menu-naturery-hand-shooting-some-green-stuff
+
+### PD Glossy Icon Buttons
+![PD Glossy Icon Buttons 미리보기](previews/pd-glossy-icon-buttons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//pd-glossy-icon-buttons.zip) (7.3MB, png 98개 · jpg 2개)
+- 제작: qubodup / 라이선스: CC0 / 원본: https://opengameart.org/content/pd-glossy-icon-buttons
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
