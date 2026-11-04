@@ -244,6 +244,76 @@ UI 키트와 아이콘. 장르를 가리지 않고 쓰이는 CC0 팩.
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//fantasy-gui-0.zip) (5.6MB, png 5개)
 - 제작: Dread Knight / 라이선스: CC0 / 원본: https://opengameart.org/content/fantasy-gui-0
 
+### New Blue Gui
+![New Blue Gui 미리보기](previews/new-blue-gui.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//new-blue-gui.zip) (344KB, png 1개 · jpg 1개)
+- 제작: smoke_th / 라이선스: CC0 / 원본: https://opengameart.org/content/new-blue-gui
+
+### UI Pack Expansion
+![UI Pack Expansion 미리보기](previews/ui-pack-expansion.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//ui-pack-expansion.zip) (49KB, png 1개 · svg 1개)
+- 제작: russpuppy / 라이선스: CC0 / 원본: https://opengameart.org/content/ui-pack-expansion
+
+### Tango Desktop Icons
+![Tango Desktop Icons 미리보기](previews/tango-desktop-icons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//tango-desktop-icons.zip) (339KB, png 1개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/tango-desktop-icons
+
+### Free Bubble Game Button Pack
+![Free Bubble Game Button Pack 미리보기](previews/free-bubble-game-button-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//free-bubble-game-button-pack.zip) (10.8MB, jpg 2개 · txt 1개 · png 1개 · svg 1개)
+- 제작: looneybits / 라이선스: CC0 / 원본: https://opengameart.org/content/free-bubble-game-button-pack
+
+### Superpowers assets bitmap fonts
+![Superpowers assets bitmap fonts 미리보기](previews/superpowers-assets-bitmap-fonts.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//superpowers-assets-bitmap-fonts.zip) (615KB, png 16개 · jpg 3개 · txt 2개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/superpowers-assets-bitmap-fonts
+
+### Mouse buttons & arrow keys
+![Mouse buttons & arrow keys 미리보기](previews/mouse-buttons-arrow-keys.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//mouse-buttons-arrow-keys.zip) (17KB, png 1개 · svg 1개)
+- 제작: metaldev / 라이선스: CC0 / 원본: https://opengameart.org/content/mouse-buttons-arrow-keys
+
+### Bitmap font
+![Bitmap font 미리보기](previews/bitmap-font-0.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//bitmap-font-0.zip) (152KB, png 12개)
+- 제작: CelestialCreator / 라이선스: CC0 / 원본: https://opengameart.org/content/bitmap-font-0
+
+### Cartoon Mobile Rounded Icon Buttons
+![Cartoon Mobile Rounded Icon Buttons 미리보기](previews/cartoon-mobile-rounded-icon-buttons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//cartoon-mobile-rounded-icon-buttons.zip) (2.8MB, png 570개 · jpg 1개)
+- 제작: monsterkillu / 라이선스: CC0 / 원본: https://opengameart.org/content/cartoon-mobile-rounded-icon-buttons
+
+### 16x16 Weapon RPG Icons
+![16x16 Weapon RPG Icons 미리보기](previews/16x16-weapon-rpg-icons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//16x16-weapon-rpg-icons.zip) (760KB, png 18개)
+- 제작: FiveBrosStopMosYT / 라이선스: CC0 / 원본: https://opengameart.org/content/16x16-weapon-rpg-icons
+
+### High-Tech UI
+![High-Tech UI 미리보기](previews/high-tech-ui.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//high-tech-ui.zip) (16.2MB, jpg 1개 · txt 1개)
+- 제작: iPoly3D / 라이선스: CC0 / 원본: https://opengameart.org/content/high-tech-ui
+
+### Flare weapon icons 2
+![Flare weapon icons 2 미리보기](previews/flare-weapon-icons-2.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//flare-weapon-icons-2.zip) (948KB, png 12개 · txt 1개)
+- 제작: davidbv / 라이선스: CC0 / 원본: https://opengameart.org/content/flare-weapon-icons-2
+
+### Inventory GUI
+![Inventory GUI 미리보기](previews/inventory-gui.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//inventory-gui.zip) (375KB, jpg 1개)
+- 제작: FacadeGaikan / 라이선스: CC0 / 원본: https://opengameart.org/content/inventory-gui
+
+### Flare HUD
+![Flare HUD 미리보기](previews/flare-hud.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//flare-hud.zip) (51KB, png 15개)
+- 제작: Clint Bellanger / 라이선스: CC0 / 원본: https://opengameart.org/content/flare-hud
+
+### Concrete UI, part 2
+![Concrete UI, part 2 미리보기](previews/concrete-ui-part-2.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//concrete-ui-part-2.zip) (30KB, png 2개)
+- 제작: dalonedrau / 라이선스: CC0 / 원본: https://opengameart.org/content/concrete-ui-part-2
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
