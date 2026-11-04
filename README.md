@@ -614,6 +614,66 @@ UI 키트와 아이콘. 장르를 가리지 않고 쓰이는 CC0 팩.
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//bitscript-a-low-res-handwriting-font.zip) (6KB, png 4개)
 - 제작: William.Thompsonj / 라이선스: CC0 / 원본: https://opengameart.org/content/bitscript-a-low-res-handwriting-font
 
+### GUI Buttons
+![GUI Buttons 미리보기](previews/gui-buttons-0.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//gui-buttons-0.zip) (820KB, png 47개 · txt 1개 · svg 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/gui-buttons-0
+
+### play, pause, mute and unmute buttons
+![play, pause, mute and unmute buttons 미리보기](previews/play-pause-mute-and-unmute-buttons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//play-pause-mute-and-unmute-buttons.zip) (119KB, png 20개)
+- 제작: Vladiedoo / 라이선스: CC0 / 원본: https://opengameart.org/content/play-pause-mute-and-unmute-buttons
+
+### Fantasy Action Icons And Card Design
+![Fantasy Action Icons And Card Design 미리보기](previews/fantasy-action-icons-and-card-design.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//fantasy-action-icons-and-card-design.zip) (11.2MB, png 77개 · jpg 4개)
+- 제작: Dread Knight / 라이선스: CC0 / 원본: https://opengameart.org/content/fantasy-action-icons-and-card-design
+
+### Tiny RPG - Dark Dwellers GUI
+![Tiny RPG - Dark Dwellers GUI 미리보기](previews/tiny-rpg-dark-dwellers-gui.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//tiny-rpg-dark-dwellers-gui.zip) (446KB, png 98개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/tiny-rpg-dark-dwellers-gui
+
+### Platformer Art: Replacement GUI Text
+![Platformer Art: Replacement GUI Text 미리보기](previews/platformer-art-replacement-gui-text.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//platformer-art-replacement-gui-text.zip) (267KB, png 96개 · txt 1개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/platformer-art-replacement-gui-text
+
+### 16-bit Gilded Bitmap Font
+![16-bit Gilded Bitmap Font 미리보기](previews/16-bit-gilded-bitmap-font.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//16-bit-gilded-bitmap-font.zip) (8KB, png 1개)
+- 제작: xmorg / 라이선스: CC0 / 원본: https://opengameart.org/content/16-bit-gilded-bitmap-font
+
+### CC0 Document Icons
+![CC0 Document Icons 미리보기](previews/cc0-document-icons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//cc0-document-icons.zip) (139KB, png 47개 · svg 8개 · txt 5개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/cc0-document-icons
+
+### Some basic UI icons.
+![Some basic UI icons. 미리보기](previews/some-basic-ui-icons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//some-basic-ui-icons.zip) (11KB, png 3개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/some-basic-ui-icons
+
+### RetroPixel Icons V2 (9x9)
+![RetroPixel Icons V2 (9x9) 미리보기](previews/retropixel-icons-v2-9x9.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//retropixel-icons-v2-9x9.zip) (154KB, png 49개)
+- 제작: looneybits / 라이선스: CC0 / 원본: https://opengameart.org/content/retropixel-icons-v2-9x9
+
+### CC0 Firearm Icons
+![CC0 Firearm Icons 미리보기](previews/cc0-firearm-icons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//cc0-firearm-icons.zip) (297KB, png 37개 · svg 21개 · txt 3개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/cc0-firearm-icons
+
+### Game Console Controller Buttons
+![Game Console Controller Buttons 미리보기](previews/game-console-controller-buttons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//game-console-controller-buttons.zip) (691KB, png 32개 · jpg 1개)
+- 제작: BBG / 라이선스: CC0 / 원본: https://opengameart.org/content/game-console-controller-buttons
+
+### Boxy Bold Font Split
+![Boxy Bold Font Split 미리보기](previews/boxy-bold-font-split.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//boxy-bold-font-split.zip) (67KB, png 141개)
+- 제작: samuroma2 / 라이선스: CC0 / 원본: https://opengameart.org/content/boxy-bold-font-split
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
