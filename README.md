@@ -914,6 +914,26 @@ UI 키트와 아이콘. 장르를 가리지 않고 쓰이는 CC0 팩.
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//buttons-back-and-forward-1.zip) (281KB, png 4개)
 - 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/buttons-back-and-forward-1
 
+### Buttonsss
+![Buttonsss 미리보기](previews/buttonsss.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//buttonsss.zip) (8.4MB, jpg 1개)
+- 제작: JaidynReiman / 라이선스: CC0 / 원본: https://opengameart.org/content/buttonsss
+
+### PixUI Asset Pack 1 [CTATZ]
+![PixUI Asset Pack 1 [CTATZ] 미리보기](previews/pixui-asset-pack-1-ctatz.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//pixui-asset-pack-1-ctatz.zip) (209KB, png 160개 · txt 1개)
+- 제작: Riyan010699 / 라이선스: CC0 / 원본: https://opengameart.org/content/pixui-asset-pack-1-ctatz
+
+### Pixel UI/HUD Pack
+![Pixel UI/HUD Pack 미리보기](previews/pixel-uihud-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//pixel-uihud-pack.zip) (95KB, png 2개 · txt 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/pixel-uihud-pack
+
+### Icons_32x32
+![Icons_32x32 미리보기](previews/icons32x32.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//icons32x32.zip) (9KB, png 2개)
+- 제작: MELLE / 라이선스: CC0 / 원본: https://opengameart.org/content/icons32x32
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
