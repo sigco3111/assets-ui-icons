@@ -314,6 +314,66 @@ UI 키트와 아이콘. 장르를 가리지 않고 쓰이는 CC0 팩.
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//concrete-ui-part-2.zip) (30KB, png 2개)
 - 제작: dalonedrau / 라이선스: CC0 / 원본: https://opengameart.org/content/concrete-ui-part-2
 
+### Boxy Bold Font+
+![Boxy Bold Font+ 미리보기](previews/boxy-bold-font-0.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//boxy-bold-font-0.zip) (2KB, png 1개)
+- 제작: Clint Bellanger / 라이선스: CC0 / 원본: https://opengameart.org/content/boxy-bold-font-0
+
+### Brightmix Icon Set
+![Brightmix Icon Set 미리보기](previews/brightmix-icon-set.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//brightmix-icon-set.zip) (617KB, png 3개 · svg 1개)
+- 제작: Anonymous (not verified) / 라이선스: CC0 / 원본: https://opengameart.org/content/brightmix-icon-set
+
+### Game icons (fighter expansion)
+![Game icons (fighter expansion) 미리보기](previews/game-icons-fighter-expansion.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//game-icons-fighter-expansion.zip) (2.5MB, png 952개 · svg 6개 · txt 3개)
+- 제작: Nekohime / 라이선스: CC0 / 원본: https://opengameart.org/content/game-icons-fighter-expansion
+
+### UI Orbs
+![UI Orbs 미리보기](previews/ui-orbs.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//ui-orbs.zip) (340KB, png 8개)
+- 제작: Onyx Melon / 라이선스: CC0 / 원본: https://opengameart.org/content/ui-orbs
+
+### Assets: UI Different Free #2 [Icons, Bars, Buttons]
+![Assets: UI Different Free #2 [Icons, Bars, Buttons] 미리보기](previews/assets-ui-different-free-2-icons-bars-buttons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//assets-ui-different-free-2-icons-bars-buttons.zip) (4.1MB, png 74개 · jpg 9개)
+- 제작: Bonsaiheldin / 라이선스: CC0 / 원본: https://opengameart.org/content/assets-ui-different-free-2-icons-bars-buttons
+
+### Gauntlet Cursor
+![Gauntlet Cursor 미리보기](previews/gauntlet-cursor.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//gauntlet-cursor.zip) (120KB, png 9개 · jpg 3개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/gauntlet-cursor
+
+### Game Button Pack
+![Game Button Pack 미리보기](previews/game-button-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//game-button-pack.zip) (4.9MB, png 1개 · svg 1개 · jpg 1개)
+- 제작: ErLuiSSJL / 라이선스: CC0 / 원본: https://opengameart.org/content/game-button-pack
+
+### Control Icons
+![Control Icons 미리보기](previews/control-icons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//control-icons.zip) (10KB, png 2개 · txt 1개)
+- 제작: SquareFox / 라이선스: CC0 / 원본: https://opengameart.org/content/control-icons
+
+### RetroPixel Icons V1 (9x9)
+![RetroPixel Icons V1 (9x9) 미리보기](previews/retropixel-icons-v1-9x9.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//retropixel-icons-v1-9x9.zip) (208KB, png 66개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/retropixel-icons-v1-9x9
+
+### RPG Icons
+![RPG Icons 미리보기](previews/rpg-icons-3.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//rpg-icons-3.zip) (2.8MB, png 120개 · txt 1개)
+- 제작: MedicineStorm / 라이선스: CC0 / 원본: https://opengameart.org/content/rpg-icons-3
+
+### Simple Pixel GUI (Programmer Art)
+![Simple Pixel GUI (Programmer Art) 미리보기](previews/simple-pixel-gui-programmer-art.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//simple-pixel-gui-programmer-art.zip) (60KB, png 2개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/simple-pixel-gui-programmer-art
+
+### GUI Windows constructor
+![GUI Windows constructor 미리보기](previews/gui-windows-constructor.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//gui-windows-constructor.zip) (72KB, png 2개)
+- 제작: Esanay / 라이선스: CC0 / 원본: https://opengameart.org/content/gui-windows-constructor
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
