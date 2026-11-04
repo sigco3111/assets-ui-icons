@@ -174,6 +174,76 @@ UI 키트와 아이콘. 장르를 가리지 않고 쓰이는 CC0 팩.
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//ui-button.zip) (268KB, png 6개)
 - 제작: Dread Knight / 라이선스: CC0 / 원본: https://opengameart.org/content/ui-button
 
+### Fantasy UI Box
+![Fantasy UI Box 미리보기](previews/fantasy-ui-box.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//fantasy-ui-box.zip) (654KB, png 3개)
+- 제작: sandsound / 라이선스: CC0 / 원본: https://opengameart.org/content/fantasy-ui-box
+
+### UI Elements
+![UI Elements 미리보기](previews/ui-elements-0.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//ui-elements-0.zip) (13.3MB, png 1개)
+- 제작: JaidynReiman / 라이선스: CC0 / 원본: https://opengameart.org/content/ui-elements-0
+
+### FPS UI MISC Pack 1 [CTATZ]
+![FPS UI MISC Pack 1 [CTATZ] 미리보기](previews/fps-ui-misc-pack-1-ctatz.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//fps-ui-misc-pack-1-ctatz.zip) (657KB, png 110개 · txt 1개)
+- 제작: KumoKairo / 라이선스: CC0 / 원본: https://opengameart.org/content/fps-ui-misc-pack-1-ctatz
+
+### Modified And Cliped Magic, Skill & Item Icons
+![Modified And Cliped Magic, Skill & Item Icons 미리보기](previews/modified-and-cliped-magic-skill-item-icons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//modified-and-cliped-magic-skill-item-icons.zip) (90.2MB, png 583개 · jpg 1개)
+- 제작: Pompei2 / 라이선스: CC0 / 원본: https://opengameart.org/content/modified-and-cliped-magic-skill-item-icons
+
+### Boxy Bold Font
+![Boxy Bold Font 미리보기](previews/boxy-bold-font.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//boxy-bold-font.zip) (4KB, png 3개)
+- 제작: Eiyeron / 라이선스: CC0 / 원본: https://opengameart.org/content/boxy-bold-font
+
+### Three Little Bitmap Fonts
+![Three Little Bitmap Fonts 미리보기](previews/three-little-bitmap-fonts.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//three-little-bitmap-fonts.zip) (23KB, png 3개)
+- 제작: Hercules / 라이선스: CC0 / 원본: https://opengameart.org/content/three-little-bitmap-fonts
+
+### 16x16 Assorted RPG Icons
+![16x16 Assorted RPG Icons 미리보기](previews/16x16-assorted-rpg-icons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//16x16-assorted-rpg-icons.zip) (396KB, png 13개)
+- 제작: tbbk / 라이선스: CC0 / 원본: https://opengameart.org/content/16x16-assorted-rpg-icons
+
+### A package of 8-bit fonts for Grafx2 and Linux
+![A package of 8-bit fonts for Grafx2 and Linux 미리보기](previews/a-package-of-8-bit-fonts-for-grafx2-and-linux.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//a-package-of-8-bit-fonts-for-grafx2-and-linux.zip) (32KB, png 7개)
+- 제작: bitcraft / 라이선스: CC0 / 원본: https://opengameart.org/content/a-package-of-8-bit-fonts-for-grafx2-and-linux
+
+### Free Fantasy Game GUI
+![Free Fantasy Game GUI 미리보기](previews/free-fantasy-game-gui.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//free-fantasy-game-gui.zip) (10.8MB, jpg 3개 · svg 2개 · png 2개 · txt 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/free-fantasy-game-gui
+
+### match 3 gui
+![match 3 gui 미리보기](previews/match-3-gui.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//match-3-gui.zip) (14KB, png 5개)
+- 제작: Buch / 라이선스: CC0 / 원본: https://opengameart.org/content/match-3-gui
+
+### RPG User Interface
+![RPG User Interface 미리보기](previews/rpg-user-interface.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//rpg-user-interface.zip) (24.6MB, jpg 1개 · txt 1개)
+- 제작: 불명 (OGA 계정 삭제됨) / 라이선스: CC0 / 원본: https://opengameart.org/content/rpg-user-interface
+
+### Casual Game Button Pack
+![Casual Game Button Pack 미리보기](previews/casual-game-button-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//casual-game-button-pack.zip) (9.6MB, svg 1개 · png 1개 · jpg 1개)
+- 제작: Calinou / 라이선스: CC0 / 원본: https://opengameart.org/content/casual-game-button-pack
+
+### RPG UI Icons
+![RPG UI Icons 미리보기](previews/rpg-ui-icons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//rpg-ui-icons.zip) (76KB, png 109개)
+- 제작: NaranjaIncógnita / 라이선스: CC0 / 원본: https://opengameart.org/content/rpg-ui-icons
+
+### FANTASY GUI
+![FANTASY GUI 미리보기](previews/fantasy-gui-0.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//fantasy-gui-0.zip) (5.6MB, png 5개)
+- 제작: Dread Knight / 라이선스: CC0 / 원본: https://opengameart.org/content/fantasy-gui-0
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
