@@ -554,6 +554,66 @@ UI 키트와 아이콘. 장르를 가리지 않고 쓰이는 CC0 팩.
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//pd-glossy-icon-buttons.zip) (7.3MB, png 98개 · jpg 2개)
 - 제작: qubodup / 라이선스: CC0 / 원본: https://opengameart.org/content/pd-glossy-icon-buttons
 
+### 16x12 Terminal Bitmap Font
+![16x12 Terminal Bitmap Font 미리보기](previews/16x12-terminal-bitmap-font.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//16x12-terminal-bitmap-font.zip) (18KB, png 3개)
+- 제작: MoikMellah / 라이선스: CC0 / 원본: https://opengameart.org/content/16x12-terminal-bitmap-font
+
+### UI Button set
+![UI Button set 미리보기](previews/ui-button-set.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//ui-button-set.zip) (1.0MB, png 2개)
+- 제작: bomt / 라이선스: CC0 / 원본: https://opengameart.org/content/ui-button-set
+
+### Tiny RPG - Mana Soul GUI
+![Tiny RPG - Mana Soul GUI 미리보기](previews/tiny-rpg-mana-soul-gui.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//tiny-rpg-mana-soul-gui.zip) (289KB, png 55개)
+- 제작: Ragnar Random / 라이선스: CC0 / 원본: https://opengameart.org/content/tiny-rpg-mana-soul-gui
+
+### 32x sword icon
+![32x sword icon 미리보기](previews/32x-sword-icon.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//32x-sword-icon.zip) (3KB, png 2개)
+- 제작: pixel32 / 라이선스: CC0 / 원본: https://opengameart.org/content/32x-sword-icon
+
+### Game icon Pack1
+![Game icon Pack1 미리보기](previews/game-icon-pack1.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//game-icon-pack1.zip) (2.4MB, png 30개 · txt 1개)
+- 제작: SmokeHouseGames / 라이선스: CC0 / 원본: https://opengameart.org/content/game-icon-pack1
+
+### CC0 Shield Icons
+![CC0 Shield Icons 미리보기](previews/cc0-shield-icons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//cc0-shield-icons.zip) (3.2MB, png 291개 · svg 15개 · txt 13개)
+- 제작: Commander / 라이선스: CC0 / 원본: https://opengameart.org/content/cc0-shield-icons
+
+### Arcade GUI
+![Arcade GUI 미리보기](previews/arcade-gui.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//arcade-gui.zip) (726KB, png 3개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/arcade-gui
+
+### Minery Icons!
+![Minery Icons! 미리보기](previews/minery-icons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//minery-icons.zip) (149KB, png 1개)
+- 제작: 1up Indie / 라이선스: CC0 / 원본: https://opengameart.org/content/minery-icons
+
+### Assets: UI Minimalism SciFi
+![Assets: UI Minimalism SciFi 미리보기](previews/assets-ui-minimalism-scifi.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//assets-ui-minimalism-scifi.zip) (2.7MB, png 34개 · jpg 3개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/assets-ui-minimalism-scifi
+
+### Paper Icons
+![Paper Icons 미리보기](previews/paper-icons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//paper-icons.zip) (11KB, png 3개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/paper-icons
+
+### Minimalist Game GUI
+![Minimalist Game GUI 미리보기](previews/minimalist-game-gui.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//minimalist-game-gui.zip) (13KB, png 1개)
+- 제작: MedicineStorm / 라이선스: CC0 / 원본: https://opengameart.org/content/minimalist-game-gui
+
+### BitScript -- a low-res handwriting font
+![BitScript -- a low-res handwriting font 미리보기](previews/bitscript-a-low-res-handwriting-font.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//bitscript-a-low-res-handwriting-font.zip) (6KB, png 4개)
+- 제작: William.Thompsonj / 라이선스: CC0 / 원본: https://opengameart.org/content/bitscript-a-low-res-handwriting-font
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
