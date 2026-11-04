@@ -24,6 +24,86 @@ UI 키트와 아이콘. 장르를 가리지 않고 쓰이는 CC0 팩.
 - 파일: `crosshair-pack.zip` (크로스헤어 200종 × Black/White/Outline 3스타일, 일반+레티나(@2x) 해상도, 타일시트·SVG 원본 포함)
 - 제작: Kenney / 라이선스: CC0 / 원본: https://kenney.nl/assets/crosshair-pack
 
+### UI Pack
+![UI Pack 미리보기](previews/ui-pack.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//ui-pack.zip) (1.3MB, png 872개 · svg 434개 · ogg 6개 · txt 1개)
+- 제작: Holofire / 라이선스: CC0 / 원본: https://opengameart.org/content/ui-pack
+
+### Golden UI
+![Golden UI 미리보기](previews/golden-ui.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//golden-ui.zip) (41KB, png 2개)
+- 제작: Buch / 라이선스: CC0 / 원본: https://opengameart.org/content/golden-ui
+
+### 496 pixel art icons for medieval/fantasy RPG
+![496 pixel art icons for medieval/fantasy RPG 미리보기](previews/496-pixel-art-icons-for-medievalfantasy-rpg.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//496-pixel-art-icons-for-medievalfantasy-rpg.zip) (1.8MB, png 497개)
+- 제작: MedicineStorm / 라이선스: CC0 / 원본: https://opengameart.org/content/496-pixel-art-icons-for-medievalfantasy-rpg
+
+### RPG Game UI
+![RPG Game UI 미리보기](previews/rpg-game-ui.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//rpg-game-ui.zip) (396KB, png 1개)
+- 제작: Chris_M_The_Gam... / 라이선스: CC0 / 원본: https://opengameart.org/content/rpg-game-ui
+
+### GUI elements
+![GUI elements 미리보기](previews/gui-elements.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//gui-elements.zip) (7.1MB, svg 4개 · png 4개)
+- 제작: nazzyc / 라이선스: CC0 / 원본: https://opengameart.org/content/gui-elements
+
+### UI pack: RPG extension
+![UI pack: RPG extension 미리보기](previews/ui-pack-rpg-extension.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//ui-pack-rpg-extension.zip) (312KB, png 92개 · txt 1개 · svg 1개)
+- 제작: KumoKairo / 라이선스: CC0 / 원본: https://opengameart.org/content/ui-pack-rpg-extension
+
+### UI Pack - Sci-Fi
+![UI Pack - Sci-Fi 미리보기](previews/ui-pack-sci-fi.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//ui-pack-sci-fi.zip) (839KB, png 744개 · svg 370개 · txt 1개)
+- 제작: TangZero / 라이선스: CC0 / 원본: https://opengameart.org/content/ui-pack-sci-fi
+
+### Sci-fi User Interface Elements
+![Sci-fi User Interface Elements 미리보기](previews/sci-fi-user-interface-elements.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//sci-fi-user-interface-elements.zip) (7KB, png 1개)
+- 제작: PancInteractive / 라이선스: CC0 / 원본: https://opengameart.org/content/sci-fi-user-interface-elements
+
+### Armor Icons by Equipment Slot
+![Armor Icons by Equipment Slot 미리보기](previews/armor-icons-by-equipment-slot.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//armor-icons-by-equipment-slot.zip) (222KB, png 2개)
+- 제작: Acorn / 라이선스: CC0 / 원본: https://opengameart.org/content/armor-icons-by-equipment-slot
+
+### UI pieces
+![UI pieces 미리보기](previews/ui-pieces.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//ui-pieces.zip) (16KB, png 3개)
+- 제작: Tsukeo / 라이선스: CC0 / 원본: https://opengameart.org/content/ui-pieces
+
+### FREE UI ASSET PACK 1
+![FREE UI ASSET PACK 1 미리보기](previews/free-ui-asset-pack-1.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//free-ui-asset-pack-1.zip) (1.3MB, png 190개 · txt 1개)
+- 제작: warrior1988 / 라이선스: CC0 / 원본: https://opengameart.org/content/free-ui-asset-pack-1
+
+### Skill, item and spell icons
+![Skill, item and spell icons 미리보기](previews/skill-item-and-spell-icons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//skill-item-and-spell-icons.zip) (25.4MB, png 105개 · txt 1개)
+- 제작: qubodup / 라이선스: CC0 / 원본: https://opengameart.org/content/skill-item-and-spell-icons
+
+### Pixel UI pack (750 assets)
+![Pixel UI pack (750 assets) 미리보기](previews/pixel-ui-pack-750-assets.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//pixel-ui-pack-750-assets.zip) (232KB, png 37개 · txt 2개)
+- 제작: patvanmackelberg / 라이선스: CC0 / 원본: https://opengameart.org/content/pixel-ui-pack-750-assets
+
+### OSARE weapon icons
+![OSARE weapon icons 미리보기](previews/osare-weapon-icons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//osare-weapon-icons.zip) (276KB, png 19개)
+- 제작: Clint Bellanger / 라이선스: CC0 / 원본: https://opengameart.org/content/osare-weapon-icons
+
+### Powers Icons
+![Powers Icons 미리보기](previews/powers-icons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//powers-icons.zip) (170KB, blend 1개 · png 1개 · jpg 1개)
+- 제작: remaxim / 라이선스: CC0 / 원본: https://opengameart.org/content/powers-icons
+
+### Gold treasure icons 16x16
+![Gold treasure icons 16x16 미리보기](previews/gold-treasure-icons-16x16.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//gold-treasure-icons-16x16.zip) (9KB, png 12개 · txt 1개)
+- 제작: Clint Bellanger / 라이선스: CC0 / 원본: https://opengameart.org/content/gold-treasure-icons-16x16
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
