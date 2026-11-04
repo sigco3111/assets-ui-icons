@@ -374,6 +374,66 @@ UI 키트와 아이콘. 장르를 가리지 않고 쓰이는 CC0 팩.
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//gui-windows-constructor.zip) (72KB, png 2개)
 - 제작: Esanay / 라이선스: CC0 / 원본: https://opengameart.org/content/gui-windows-constructor
 
+### Space icons with base, defensive guns, ships & scenery
+![Space icons with base, defensive guns, ships & scenery 미리보기](previews/space-icons-with-base-defensive-guns-ships-scenery.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//space-icons-with-base-defensive-guns-ships-scenery.zip) (35KB, png 2개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/space-icons-with-base-defensive-guns-ships-scenery
+
+### Turning Polyhedron GUI
+![Turning Polyhedron GUI 미리보기](previews/turning-polyhedron-gui.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//turning-polyhedron-gui.zip) (100KB, png 2개)
+- 제작: ILIKESCIFI / 라이선스: CC0 / 원본: https://opengameart.org/content/turning-polyhedron-gui
+
+### Mobile Game GUI Buttons
+![Mobile Game GUI Buttons 미리보기](previews/mobile-game-gui-buttons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//mobile-game-gui-buttons.zip) (2.5MB, png 5개 · txt 2개)
+- 제작: ilan / 라이선스: CC0 / 원본: https://opengameart.org/content/mobile-game-gui-buttons
+
+### Simple hud gui constraction kit in 8 colors
+![Simple hud gui constraction kit in 8 colors 미리보기](previews/simple-hud-gui-constraction-kit-in-8-colors.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//simple-hud-gui-constraction-kit-in-8-colors.zip) (1.8MB, png 224개 · jpg 2개)
+- 제작: PancInteractive / 라이선스: CC0 / 원본: https://opengameart.org/content/simple-hud-gui-constraction-kit-in-8-colors
+
+### Aleona's Tales: some UI
+![Aleona's Tales: some UI 미리보기](previews/aleonas-tales-some-ui.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//aleonas-tales-some-ui.zip) (4.1MB, png 2개)
+- 제작: qubodup / 라이선스: CC0 / 원본: https://opengameart.org/content/aleonas-tales-some-ui
+
+### Space Gui in various colors
+![Space Gui in various colors 미리보기](previews/space-gui-in-various-colors.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//space-gui-in-various-colors.zip) (13.2MB, png 33개)
+- 제작: SmokeHouseGames / 라이선스: CC0 / 원본: https://opengameart.org/content/space-gui-in-various-colors
+
+### GUI Buttons Vol.1
+![GUI Buttons Vol.1 미리보기](previews/gui-buttons-vol1.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//gui-buttons-vol1.zip) (1.5MB, png 192개 · txt 1개 · svg 1개)
+- 제작: Snabisch / 라이선스: CC0 / 원본: https://opengameart.org/content/gui-buttons-vol1
+
+### Tiny RPG - Dragon Regalia GUI
+![Tiny RPG - Dragon Regalia GUI 미리보기](previews/tiny-rpg-dragon-regalia-gui.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//tiny-rpg-dragon-regalia-gui.zip) (179KB, png 50개)
+- 제작: MedicineStorm / 라이선스: CC0 / 원본: https://opengameart.org/content/tiny-rpg-dragon-regalia-gui
+
+### Board Game Icons
+![Board Game Icons 미리보기](previews/board-game-icons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//board-game-icons.zip) (1.2MB, png 514개 · svg 256개 · txt 2개)
+- 제작: ? / 라이선스: CC0 / 원본: https://opengameart.org/content/board-game-icons
+
+### Minmal GUI
+![Minmal GUI 미리보기](previews/minmal-gui.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//minmal-gui.zip) (10KB, png 3개)
+- 제작: vk / 라이선스: CC0 / 원본: https://opengameart.org/content/minmal-gui
+
+### Button Prompts for Pixel/Low Res UIs
+![Button Prompts for Pixel/Low Res UIs 미리보기](previews/button-prompts-for-pixellow-res-uis.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//button-prompts-for-pixellow-res-uis.zip) (14KB, png 2개)
+- 제작: withthelove / 라이선스: CC0 / 원본: https://opengameart.org/content/button-prompts-for-pixellow-res-uis
+
+### 36 free black and white icons
+![36 free black and white icons 미리보기](previews/36-free-black-and-white-icons.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download//36-free-black-and-white-icons.zip) (857KB, png 37개)
+- 제작: vk / 라이선스: CC0 / 원본: https://opengameart.org/content/36-free-black-and-white-icons
+
 ## 사용 방법
 
 1. 원하는 zip을 내려받아 프로젝트에 압축 해제 (Code 탭 → 파일 클릭 → Download)
