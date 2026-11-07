@@ -1,0 +1,11 @@
+Source: https://opengameart.org/content/assets-ui-casual-free-5-buttons-bars-panels
+Title: Assets: UI Casual Free #5 [Buttons, Bars, Panels]
+Author: Wenrexa (OpenGameArt.org)
+License stated on the page: CC0 1.0 Universal (Public Domain Dedication)
+License URL: https://creativecommons.org/publicdomain/zero/1.0/
+Page date: 2021-03-14
+Collected: 2026-11-07
+
+The page's License(s) field: CC0. The description reads: "You can use assets for free and commercially in any of your projects (games, videos, animations, programs, books, etc.)." The zip contains only a Readme (author link), not a license file.
+The OpenGameArt page lists this asset's license as CC0. No attribution is required (author credit is optional).
+This file was written by the collector from the page's license statement.
