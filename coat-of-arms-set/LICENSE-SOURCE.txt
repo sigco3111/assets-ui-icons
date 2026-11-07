@@ -1,0 +1,11 @@
+Source: https://opengameart.org/content/coat-of-arms-set
+Title: Coat Of Arms Set
+Author: Julie Damsgaard (Spring Spring) (OpenGameArt.org)
+License(s) listed on the page: CC-BY 3.0 / CC-BY-SA 3.0
+License chosen by the collector: CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+Page date: 2026-08-10
+Collected: 2026-11-07
+
+Chosen license: CC-BY 3.0. OGA 페이지 CC-BY 3.0 / CC-BY-SA 3.0 병기, 한 점짜리 세트 전체에 CC-BY 3.0 제공 → CC-BY 3.0 선택; 첨부 PNG 2개(set_1·set_2)는 바이트 동일이라 1개만 수록; 파일명은 공백 제거
+Attribution text (from the page): "Produced by Julie Damsgaard/Spring Spring/Spring Enterprises @ https://spring-enterprises.neocities.org"
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
