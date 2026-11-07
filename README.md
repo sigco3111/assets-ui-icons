@@ -1,3 +1,5 @@
+> A8~A10 신규 팩 6개 추가 (현재 총 204팩). 전체 목록·라이선스·귀속: [game-asset-catalog](https://github.com/sigco3111/game-asset-catalog/blob/main/catalog.csv)
+
 # assets-ui-icons
 
 UI 키트와 아이콘. 장르를 가리지 않고 쓰이는 CC0 팩.
