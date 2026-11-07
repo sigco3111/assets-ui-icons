@@ -1,0 +1,11 @@
+Source: https://opengameart.org/content/faction-icons
+Title: Faction Icons
+Author: cdgramos (OpenGameArt.org)
+License(s) listed on the page: CC0
+License chosen by the collector: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Page date: 2014-05-09
+Collected: 2026-11-07
+
+Chosen license: CC0. OGA 페이지 CC0 단독 표기 확인; 미리보기는 OGA 대표 이미지(g8209.png); SVG 내용은 페이지 설명(진영 아이콘)에 따름
+Attribution text (from the page): "No attribution required (CC0)."
+This file was written by the collector from the page's license statement; it is not an original license file from the author.
