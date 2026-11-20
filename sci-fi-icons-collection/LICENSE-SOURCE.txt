@@ -1,0 +1,4 @@
+Source: https://opengameart.org/content/sci-fi-icons-collection
+License: CC-BY 4.0
+Checked: 2026-11-20 (GitHub Actions runner)
+Quote: : CC-BY 4.0 
