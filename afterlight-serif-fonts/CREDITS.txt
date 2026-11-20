@@ -1,0 +1,7 @@
+Afterlight 세리프 웹폰트 3족 (Alegreya, Alegreya Sans SC, Cinzel)
+
+Fonts: Alegreya / Alegreya Sans (The Alegreya Project Authors, https://github.com/huertatipografica),
+Cinzel (Natanael Gama, https://github.com/NDISCOVER/Cinzel) — SIL Open Font License 1.1 (OFL 전문 동봉)
+Source repo: https://github.com/FriendlyUser/afterlight (fonts/)
+Korean localization fork (extraction copy): https://github.com/sigco3111/afterlight-ko
+Collected and packaged 2026-11-20.

@@ -1,0 +1,15 @@
+{
+ "name": "Afterlight 세리프 웹폰트 3족 (Alegreya·Cinzel)",
+ "slug": "afterlight-serif-fonts",
+ "zip": "afterlight-serif-fonts.zip",
+ "file": "afterlight-serif-fonts/afterlight-serif-fonts.zip",
+ "author": "Alegreya Project Authors / Natanael Gama",
+ "url": "https://github.com/FriendlyUser/afterlight",
+ "license": "OFL-1.1",
+ "attr": "required (OFL-1.1): OFL 전문 유지, 폰트 단독 판매 금지, 수정본 동일 라이선스",
+ "date": "2026-11-20",
+ "tags": "font,serif,webfont,woff2,alegreya,cinzel,latin,fantasy",
+ "notes": "Alegreya·Alegreya Sans SC·Cinzel woff2 latin/latin-ext 서브셋 10개+OFL 전문 3종. 한글 글리프 없음(라틴 전용). OFL-1.1",
+ "preview": "preview.png",
+ "kind": "폰트"
+}

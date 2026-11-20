@@ -1,0 +1,7 @@
+Battle Drones 유닛·건물 아이콘 (unit/building HUD icons, Battle Drones)
+
+Original work: Battle Drones by the Battle Drones authors (simonw/battledrones)
+https://github.com/simonw/battledrones (Apache-2.0, see LICENSE.txt / NOTICE.txt)
+Icons: shots of the in-game 3D models (ART.md §1)
+Korean localization fork (extraction copy): https://github.com/sigco3111/battledrones-ko
+Collected and packaged 2026-11-20. Keep the Apache-2.0 notice.

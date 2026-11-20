@@ -1,0 +1,15 @@
+{
+ "name": "Battle Drones 유닛·건물 아이콘 28종+변형",
+ "slug": "battledrones-unit-icons",
+ "zip": "battledrones-unit-icons.zip",
+ "file": "battledrones-unit-icons/battledrones-unit-icons.zip",
+ "author": "Battle Drones authors (simonw)",
+ "url": "https://github.com/simonw/battledrones",
+ "license": "Apache-2.0",
+ "attr": "required (Apache-2.0): 저작권·라이선스 고지와 변경 표기 유지 (Battle Drones authors, simonw/battledrones)",
+ "date": "2026-11-20",
+ "tags": "icon,ui,unit,building,portrait,military,scifi,webp",
+ "notes": "HUD 유닛·건물 아이콘 webp 28종+녹색 변형. 게임 내 3D 모델 촬영 아이콘(원작 ART.md). Apache-2.0(LICENSE·NOTICE 동봉)",
+ "preview": "preview.png",
+ "kind": "UI·아이콘"
+}
