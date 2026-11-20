@@ -1,0 +1,5 @@
+Activity Icons
+제작자: StendhalGame
+출처: https://opengameart.org/content/activity-icons
+라이선스: GPL 3.0
+표기: 필수: StendhalGame (opengameart.org), GPL 3.0
