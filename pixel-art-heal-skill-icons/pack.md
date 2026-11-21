@@ -1,0 +1,9 @@
+# Pixel Art Heal Skill Icons
+
+- 라이선스: CC0
+- 출처: https://opengameart.org/content/pixel-art-heal-skill-icons
+- 제작자: DustDFG
+- 수집일: 2026-11-21 (auto-collect, 자동)
+- 파일: pixel-art-heal-skill-icons.zip
+- 저장: 저장소 트리 pixel-art-heal-skill-icons/pixel-art-heal-skill-icons.zip
+- AI 생성: 확인 안 함 (출처 페이지에 명시 없음)
