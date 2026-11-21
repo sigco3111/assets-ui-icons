@@ -1,0 +1,5 @@
+FPS Shooter HUD & Controllers
+제작자: AliHamieh
+출처: https://opengameart.org/content/fps-shooter-hud-controllers
+라이선스: CC-BY 3.0
+표기: 필수: AliHamieh (opengameart.org), CC-BY 3.0
