@@ -1,0 +1,5 @@
+N64 UI
+제작자: n64guy
+출처: https://opengameart.org/content/n64-ui
+라이선스: CC0
+표기: 필수: n64guy (opengameart.org), CC0

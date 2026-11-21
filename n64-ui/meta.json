@@ -1,0 +1,15 @@
+{
+ "name": "N64 UI",
+ "slug": "n64-ui",
+ "zip": "n64-ui.zip",
+ "file": "n64-ui/n64-ui.zip",
+ "author": "n64guy",
+ "url": "https://opengameart.org/content/n64-ui",
+ "license": "CC0",
+ "attr": "필수: n64guy (opengameart.org), CC0",
+ "date": "2026-11-21",
+ "tags": "ui,icons,opengameart",
+ "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+ "preview": "preview.png",
+ "kind": "UI·아이콘"
+}
