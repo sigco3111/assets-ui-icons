@@ -1,0 +1,4 @@
+Source: https://opengameart.org/content/gui-pack-0
+License: CC-BY 3.0
+Checked: 2026-11-21 (GitHub Actions runner)
+Quote: : CC-BY 3.0 
