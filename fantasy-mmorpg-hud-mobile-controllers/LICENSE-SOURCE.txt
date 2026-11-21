@@ -1,0 +1,4 @@
+Source: https://opengameart.org/content/fantasy-mmorpg-hud-mobile-controllers
+License: CC-BY 3.0
+Checked: 2026-11-21 (GitHub Actions runner)
+Quote: : CC-BY 3.0 
