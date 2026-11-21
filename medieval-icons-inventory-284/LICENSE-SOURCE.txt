@@ -1,0 +1,4 @@
+Source: https://opengameart.org/content/medieval-icons-inventory-284
+License: CC0
+Checked: 2026-11-21 (GitHub Actions runner)
+Quote: : CC0 
