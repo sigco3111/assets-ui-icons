@@ -1,0 +1,5 @@
+Basic Game GUI
+제작자: DomoArto
+출처: https://opengameart.org/content/basic-game-gui
+라이선스: CC-BY 4.0
+표기: 필수: DomoArto (opengameart.org), CC-BY 4.0
