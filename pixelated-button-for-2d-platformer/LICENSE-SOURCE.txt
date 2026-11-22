@@ -1,0 +1,4 @@
+Source: https://opengameart.org/content/pixelated-button-for-2d-platformer
+License: CC0
+Checked: 2026-11-22 (GitHub Actions runner)
+Quote: : CC0 

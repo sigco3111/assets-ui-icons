@@ -1,0 +1,5 @@
+Pixelated Button (for 2D Platformer)
+제작자: c0ffeenn_
+출처: https://opengameart.org/content/pixelated-button-for-2d-platformer
+라이선스: CC0
+표기: 필수: c0ffeenn_ (opengameart.org), CC0
