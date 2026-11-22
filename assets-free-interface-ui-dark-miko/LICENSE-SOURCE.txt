@@ -1,0 +1,4 @@
+Source: https://opengameart.org/content/assets-free-interface-ui-dark-miko
+License: CC0
+Checked: 2026-11-22 (GitHub Actions runner)
+Quote: : CC0 
