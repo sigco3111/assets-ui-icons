@@ -1,0 +1,6 @@
+Galmuri 비트맵 한글 폰트 (Galmuri11, Galmuri11 Bold, Galmuri14 등)
+
+제작자: Lee Minseo (quiple), https://github.com/quiple/galmuri
+라이선스: SIL Open Font License 1.1 (OFL 전문 동봉, zip 안 LICENSE.txt와 동일)
+배포: Galmuri v2.40.4 공식 릴리스 zip 그대로 (https://github.com/quiple/galmuri/releases/tag/v2.40.4)
+수집·패키징: 2026-11-23 (sigco3111/abyss-stairs CREDITS.md 확인분)
