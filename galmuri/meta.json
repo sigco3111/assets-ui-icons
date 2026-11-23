@@ -1,0 +1,15 @@
+{
+ "name": "Galmuri 비트맵 한글 폰트 (Galmuri11·Galmuri14)",
+ "slug": "galmuri",
+ "zip": "galmuri-v2.40.4.zip",
+ "file": "releases/download/galmuri/galmuri-v2.40.4.zip",
+ "author": "Lee Minseo (quiple)",
+ "url": "https://github.com/quiple/galmuri",
+ "license": "OFL-1.1",
+ "attr": "required (OFL-1.1): OFL 전문 유지, 폰트 단독 판매 금지, 수정본 동일 라이선스",
+ "date": "2026-11-23",
+ "tags": "font,bitmap,pixel,korean,hangul,webfont,woff2,ttf",
+ "notes": "공식 v2.40.4 zip 그대로(파일 40개: Galmuri11/11 Bold/11 Condensed/14 및 Bitmap 변종 TTF·BDF·WOFF2, OFL 전문); 한글 비트맵 폰트; abyss-stairs UI 폰트 사용분",
+ "preview": "preview.png",
+ "kind": "폰트"
+}
