@@ -1004,3 +1004,9 @@ UI 키트와 아이콘. 장르를 가리지 않고 쓰이는 CC0 팩.
 - 제작: Lorc, Delapouite & contributors / 라이선스: CC-BY-3.0 / CC0 (2 contributors) / 출처: https://game-icons.net/
 
 이 확장의 원격 파일 SHA-256을 모두 로컬과 대조했습니다. 3D 팩의 모델 헤더·OBJ 정점/면, 오디오 디코딩, SVG 문서를 실제 파일에서 확인했습니다.
+
+### Long Wind 수묵 세리프 폰트 4종 (Google Fonts, OFL)
+![Long Wind 수묵 세리프 폰트 미리보기](long-wind-fonts/preview.png)
+- 파일: [릴리스 long-wind-fonts 첨부(분할 zip)](https://github.com/sigco3111/assets-ui-icons/releases/tag/long-wind-fonts) (29MB를 z01+zip 2개로 분할 — 모두 받아 `zip -s 0 long-wind-fonts.zip --out full.zip` 병합. Noto Serif KR·Noto Serif SC·Ma Shan Zheng·Cormorant Garamond, 각 폴더 OFL.txt 동봉)
+- 제작: Google Fonts (Ma Shanzheng·Noto·Christian Thalmann) / 라이선스: OFL-1.1 / 원본: https://fonts.google.com (사용 게임: https://github.com/jbang2004/long-wind)
+- 비고: google/fonts 공식 저장소(ofl/<family>) 파일과 바이트 일치 확인(2026-11-24). 폰트 단독 판매 금지·수정본 동일 라이선스
