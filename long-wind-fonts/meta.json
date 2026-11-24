@@ -9,7 +9,7 @@
  "attr": "required (OFL-1.1): OFL 전문 유지, 폰트 단독 판매 금지, 수정본 동일 라이선스",
  "date": "2026-11-24",
  "tags": "font,ofl,serif,korean,hangul,chinese,cjk,calligraphy,brush,noto,googlefonts,variable",
- "notes": "Ma Shan Zheng·Noto Serif KR·Noto Serif SC·Cormorant Garamond(+Italic). google/fonts 공식 저장소 파일 바이트 일치 확인(2026-11-24). 각 폴더 OFL.txt 동봉. zip 29MB로 Releases(long-wind-fonts) 첨부",
+ "notes": "Ma Shan Zheng·Noto Serif KR·Noto Serif SC·Cormorant Garamond(+Italic). google/fonts 공식 저장소 파일 바이트 일치 확인(2026-11-24). 각 폴더 OFL.txt 동봉. zip 29MB는 25MB 업로드 제한으로 Releases(long-wind-fonts)에 분할 압축(z01+zip 2개 모두 받아 zip -s 0 long-wind-fonts.zip --out full.zip 병합)",
  "preview": "preview.png",
  "kind": "폰트"
 }
