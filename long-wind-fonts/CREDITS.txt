@@ -1,0 +1,11 @@
+Long Wind 수묵 세리프 폰트 4종 (Google Fonts, SIL OFL 1.1)
+
+- Ma Shan Zheng (마산정 필기체, 중국어 서예) — designer: Ma Shanzheng — https://fonts.google.com/specimen/Ma+Shan+Zheng
+- Noto Serif SC (중국어 간체 세리프, 가변) — Google Noto project — https://fonts.google.com/noto/specimen/Noto+Serif+SC
+- Noto Serif KR (한국어 명조 세리프, 가변) — Google Noto project — https://fonts.google.com/noto/specimen/Noto+Serif+KR
+- Cormorant Garamond (라틴 세리프, 가변+이탤릭) — Christian Thalmann (Catharsis Fonts) — https://fonts.google.com/specimen/Cormorant+Garamond
+
+Source: google/fonts GitHub repo (ofl/<family>), files byte-identical to upstream as of 2026-11-24.
+Used in: Long Wind by jbang2004 — https://github.com/jbang2004/long-wind (Google Fonts CDN 로딩)
+License: SIL Open Font License 1.1 — 각 폴더의 OFL.txt 전문 유지, 폰트 단독 판매 금지, 수정본 동일 라이선스.
+Collected and packaged 2026-11-24.
