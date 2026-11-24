@@ -1,0 +1,15 @@
+{
+ "name": "Long Wind 수묵 세리프 폰트 4종 (Google Fonts, OFL)",
+ "slug": "long-wind-fonts",
+ "zip": "long-wind-fonts.zip",
+ "file": "releases/download/long-wind-fonts/long-wind-fonts.zip",
+ "author": "Google Fonts (Ma Shanzheng·Noto·Christian Thalmann)",
+ "url": "https://fonts.google.com",
+ "license": "OFL-1.1",
+ "attr": "required (OFL-1.1): OFL 전문 유지, 폰트 단독 판매 금지, 수정본 동일 라이선스",
+ "date": "2026-11-24",
+ "tags": "font,ofl,serif,korean,hangul,chinese,cjk,calligraphy,brush,noto,googlefonts,variable",
+ "notes": "Ma Shan Zheng·Noto Serif KR·Noto Serif SC·Cormorant Garamond(+Italic). google/fonts 공식 저장소 파일 바이트 일치 확인(2026-11-24). 각 폴더 OFL.txt 동봉. zip 29MB로 Releases(long-wind-fonts) 첨부",
+ "preview": "preview.png",
+ "kind": "폰트"
+}
