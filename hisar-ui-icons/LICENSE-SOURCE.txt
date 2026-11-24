@@ -1,6 +1,5 @@
 Source: https://github.com/Furkiozknn/kale-savunmasi
-License: MIT (repo LICENSE); models are AI-generated (Higgsfield tripo_3d) per docs/assets.md
-Checked: 2026-11-24 (LICENSE, CREDITS.md, docs/assets.md read directly)
-Service terms: Higgsfield ToU 4.4 — outputs owned by the generating user, commercial use unrestricted
-(https://higgsfield.ai/creator-hub/help-center/account/who-owns-my-generations-and-can-i-use-them-commercially, fetched 2026-11-24)
-Caveat: AI-generated output; copyright subsistence uncertain. No third-party material identified.
+License: 알 수 없음 — repo has only a generic root MIT LICENSE; CREDITS.md/docs/assets.md describe AI generation
+(Higgsfield) but state no licence coverage for these assets (checked 2026-11-24). Higgsfield ToU 4.4 covers the
+generating user's ownership/commercial use only; it is not a third-party licence. AI output copyright is uncertain.
+Use only after confirming with the author. Takedown on rightsholder request.

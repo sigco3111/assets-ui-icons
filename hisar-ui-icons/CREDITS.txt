@@ -8,3 +8,5 @@ Note: AI-generated output; copyright subsistence is uncertain. The repo distribu
 Icons: gold, lives, wave, archer, cannon, tar, raider, rider, shield, ram, upgrade, target, trophy,
 sound-on, sound-off, fortress (96px). Logo crest 256px.
 Collected and packaged 2026-11-24.
+
+Reclassified 2026-11-24: repo carries only a generic root MIT LICENSE with no explicit per-asset coverage statement for the AI-generated icons/logo, and the Higgsfield ToU clause is not a third-party licence grant. Treated as licence unknown / reuse unconfirmed.
