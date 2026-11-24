@@ -1,0 +1,10 @@
+Hisar 중세 게임 UI 아이콘 16종 + 로고 문장 (PNG, 투명 배경)
+
+Source: https://github.com/Furkiozknn/kale-savunmasi (MIT License, checked 2026-11-24)
+Author: Furkiozknn. Per docs/assets.md, generated for this game with Higgsfield gpt_image_2_5
+(one 4x4 icon sheet sliced into 16 PNGs, plus one heraldic logo crest).
+Higgsfield Terms of Use 4.4 (verified 2026-11-24): users own their outputs, commercial use unrestricted.
+Note: AI-generated output; copyright subsistence is uncertain. The repo distributes them under MIT.
+Icons: gold, lives, wave, archer, cannon, tar, raider, rider, shield, ram, upgrade, target, trophy,
+sound-on, sound-off, fortress (96px). Logo crest 256px.
+Collected and packaged 2026-11-24.
