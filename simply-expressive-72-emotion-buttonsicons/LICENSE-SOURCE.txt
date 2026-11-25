@@ -1,0 +1,4 @@
+Source: https://opengameart.org/content/simply-expressive-72-emotion-buttonsicons
+License: CC0
+Checked: 2026-11-25 (GitHub Actions runner)
+Quote: : CC0 
