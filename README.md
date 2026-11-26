@@ -1010,3 +1010,9 @@ UI 키트와 아이콘. 장르를 가리지 않고 쓰이는 CC0 팩.
 - 파일: [릴리스 long-wind-fonts 첨부(분할 zip)](https://github.com/sigco3111/assets-ui-icons/releases/tag/long-wind-fonts) (29MB를 z01+zip 2개로 분할 — 모두 받아 `zip -s 0 long-wind-fonts.zip --out full.zip` 병합. Noto Serif KR·Noto Serif SC·Ma Shan Zheng·Cormorant Garamond, 각 폴더 OFL.txt 동봉)
 - 제작: Google Fonts (Ma Shanzheng·Noto·Christian Thalmann) / 라이선스: OFL-1.1 / 원본: https://fonts.google.com (사용 게임: https://github.com/jbang2004/long-wind)
 - 비고: google/fonts 공식 저장소(ofl/<family>) 파일과 바이트 일치 확인(2026-11-24). 폰트 단독 판매 금지·수정본 동일 라이선스
+
+### 마문 전당포 UI 아이콘 55종 (중국풍 금색 선화)
+![마문 전당포 UI 아이콘 미리보기](dangpu-ui-icons/4-preview.png)
+- 파일: `dangpu-ui-icons/1-dangpu-ui-icons.zip` (187KB, svg + webp 55개: 세력 문양·낮/밤·기력/영석/공덕 등 스탯·장부·도장)
+- 제작: lqszhsp / 라이선스: MIT / 원본: https://github.com/lqszhsp/dangpu (한글판: https://github.com/sigco3111/dangpu-ko)
+- 비고: 원저작자가 gpt-image 등으로 생성한 AI 아트. MIT 전문·출처는 3-LICENSE-SOURCE.txt 동봉

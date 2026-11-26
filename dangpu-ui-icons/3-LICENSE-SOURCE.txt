@@ -1,0 +1,30 @@
+출처 에셋: 魔门当铺·来路不明 (dangpu) 게임 에셋
+원저장소: https://github.com/lqszhsp/dangpu
+원저작자: lqszhsp
+라이선스: MIT (원저장소 루트 LICENSE 전문 아래 첨부)
+표기 의무: lqszhsp (github.com/lqszhsp/dangpu), MIT 라이선스 사본 유지
+비고: 원저작자가 gpt-image / qwen-image로 생성한 AI 아트(원저장소 README 배지 및 art/ 생성 기록). 제3자 에셋 없음. 수집: 2026-11-26, sigco3111 에셋 저장소용.
+
+--- MIT License (원문) ---
+
+MIT License
+
+Copyright (c) 2026 lqszhsp
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
