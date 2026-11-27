@@ -1,0 +1,2 @@
+Source: https://patch.gg/games/blendi/small-magic (LICENCE-NOTES.md: spell medallions "Made for this game with an image model... no other source"; public/CREDITS.md)
+Repo LICENSE: MIT, Copyright (c) 2026 Patch (applies to the repo; images not separately licensed). Collected 2026-11-27 under the owner's rule: collect unless use is explicitly forbidden. License marked unknown, reuse unconfirmed.

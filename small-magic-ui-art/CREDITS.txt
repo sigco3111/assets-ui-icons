@@ -1,0 +1,4 @@
+Small Magic UI art by Patch (@blendi): https://patch.gg/games/blendi/small-magic , repo https://git.patch.gg/blendi/small-magic.git
+Per the game's public/CREDITS.md and LICENCE-NOTES.md: spell medallions (1-8, lightning, ward, wall, dash), life bar frame and sockets, the name lettering (logo) and loading art were painted with an image model (Nano Banana 2.1) from Patch's direction; no other source.
+License: the repo's LICENSE is MIT (Patch). It is not stated separately for these images, so this pack marks the license as unknown/unconfirmed. Credit "Patch (@blendi), Small Magic" when reusing.
+The logo contains the game's name lettering; do not present it as your own game's name. Collected 2026-11-27.
