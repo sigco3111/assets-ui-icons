@@ -1,0 +1,5 @@
+Original work: Don't Look Away by @blendi (Patch)
+https://patch.gg/games/blendi/dont-look-away
+Source: https://git.patch.gg/blendi/dont-look-away.git commit afa8c12
+Fonts: Cormorant Garamond and Manrope, SIL OFL 1.1 (texts bundled).
+Collected 2026-11-27.

@@ -1016,3 +1016,9 @@ UI 키트와 아이콘. 장르를 가리지 않고 쓰이는 CC0 팩.
 - 파일: `dangpu-ui-icons/1-dangpu-ui-icons.zip` (187KB, svg + webp 55개: 세력 문양·낮/밤·기력/영석/공덕 등 스탯·장부·도장)
 - 제작: lqszhsp / 라이선스: MIT / 원본: https://github.com/lqszhsp/dangpu (한글판: https://github.com/sigco3111/dangpu-ko)
 - 비고: 원저작자가 gpt-image 등으로 생성한 AI 아트. MIT 전문·출처는 3-LICENSE-SOURCE.txt 동봉
+
+### Don't Look Away 웹폰트 (Cormorant Garamond·Manrope, OFL)
+![미리보기](dont-look-away-fonts/preview.png)
+- 파일: `dont-look-away-fonts/dont-look-away-fonts.zip`
+- 제작: Cormorant Garamond·Manrope 저자 / 라이선스: OFL-1.1 / 원본: https://patch.gg/games/blendi/dont-look-away
+- 비고: OFL 전문 동봉, 파일명은 게임 빌드 기준

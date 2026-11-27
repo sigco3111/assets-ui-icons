@@ -1,0 +1,15 @@
+{
+ "name": "Don't Look Away 웹폰트 (Cormorant Garamond·Manrope, OFL)",
+ "slug": "dont-look-away-fonts",
+ "zip": "dont-look-away-fonts.zip",
+ "file": "dont-look-away-fonts/dont-look-away-fonts.zip",
+ "author": "Christian Thalmann (Cormorant Garamond), Mikhail Sharanda (Manrope)",
+ "url": "https://patch.gg/games/blendi/dont-look-away",
+ "license": "OFL-1.1",
+ "attr": "required (OFL-1.1): OFL 전문 유지, 폰트 단독 판매 금지, 수정본 동일 라이선스",
+ "date": "2026-11-27",
+ "tags": "font,ttf,serif,sans,webfont,cormorant-garamond,manrope,latin,ofl",
+ "kind": "폰트",
+ "notes": "Cormorant Garamond 5종(이탤릭 400·500, 400·500·600)과 Manrope 4종(400·500·600·700) TTF 9개+fonts.css+OFL 전문 2종. 게임 빌드가 type-N.ttf로 바꾼 파일명 그대로(원본 대비 서브셋·수정 여부 미대조). 라틴 위주, 한글 글리프 미확인. Don't Look Away CREDITS.md가 OFL-1.1 명시",
+ "preview": "preview.png"
+}
